@@ -1,0 +1,20 @@
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\bin\Debug\AES DES performance test.exe.config
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\bin\Debug\AES DES performance test.exe
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\bin\Debug\AES DES performance test.pdb
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.csprojAssemblyReference.cache
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES_DES_performance_test.Form1.resources
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES_DES_performance_test.Properties.Resources.resources
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.csproj.GenerateResource.cache
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.exe
+C:\Users\osama\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.pdb
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\bin\Debug\AES DES performance test.exe.config
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\bin\Debug\AES DES performance test.exe
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\bin\Debug\AES DES performance test.pdb
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.csprojAssemblyReference.cache
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES_DES_performance_test.Form1.resources
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES_DES_performance_test.Properties.Resources.resources
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.csproj.GenerateResource.cache
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.csproj.CoreCompileInputs.cache
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.exe
+C:\Users\Irenic\source\repos\AES DES performance test\AES DES performance test\obj\Debug\AES DES performance test.pdb
